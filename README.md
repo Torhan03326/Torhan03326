@@ -30,6 +30,14 @@ Currently studying Applied Data Science at Noroff University College while build
 - AI-assisted workflows
 - Exploratory Data Analysis (EDA)
 
+Planned focus for the summer:
+
+- Machine Learning
+- Multimodal AI systems
+- Predictive modelling
+- Real-world AI applications
+- Portfolio and project development
+
 ---
 
 ## Technologies & Tools
@@ -41,13 +49,17 @@ Currently studying Applied Data Science at Noroff University College while build
 - matplotlib
 - Jupyter Notebook
 - SQLite
+- PostgreSQL
+- MongoDB
+- Cassandra
+- Neo4j
+- Redis
 - Git & GitHub
 
 ---
 
 ## Featured Projects
 
-## Featured Projects
 
 ### Object-Oriented Programming Assignment
 Python-based programming assignment focused on object-oriented principles, problem solving, and structured application design.
