@@ -61,8 +61,8 @@ Planned focus for the summer:
 ## Featured Projects
 
 
-### Object-Oriented Programming Assignment
-Python-based programming assignment focused on object-oriented principles, problem solving, and structured application design.
+### [CityRide OOP Simulation](https://github.com/Torhan03326/cityride-oop-simulation)
+Object-oriented micro-mobility simulation focused on extensible system design and design patterns in Python.
 
 ### Statistical Analysis Projects
 Data analysis and statistical modelling projects using Python, regression analysis, hypothesis testing, and data visualization to explore relationships in real-world and educational datasets.
