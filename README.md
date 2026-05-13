@@ -64,8 +64,8 @@ Planned focus for the summer:
 ### [CityRide OOP Simulation](https://github.com/Torhan03326/cityride-oop-simulation)
 Object-oriented micro-mobility simulation focused on extensible system design and design patterns in Python.
 
-### Statistical Analysis Projects
-Data analysis and statistical modelling projects using Python, regression analysis, hypothesis testing, and data visualization to explore relationships in real-world and educational datasets.
+### [Canadian Rental Market Analysis](https://github.com/Torhan03326/canadian-rental-market-analysis)
+Statistical analysis of Canadian rental market data using preprocessing, correlation analysis, visualization, and exploratory data analysis in Python.
 
 ### Student Performance & AI Analysis
 Analysis of behavioural, demographic, and AI-related factors connected to academic performance using regression modelling, exploratory data analysis, and critical evaluation of dataset limitations.
