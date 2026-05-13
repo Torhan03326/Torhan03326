@@ -63,9 +63,7 @@ Object-oriented micro-mobility simulation focused on extensible system design, r
 
 Statistical analysis of Canadian rental market data using preprocessing, visualization, exploratory data analysis, and statistical interpretation in Python.
 
-### Student Performance & AI Analysis
 
-Analysis of behavioural, demographic, and AI-related factors connected to academic performance using regression modelling, exploratory data analysis, and critical evaluation of dataset limitations.
 
 ---
 
