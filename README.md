@@ -4,7 +4,7 @@
 
 I'm an Applied Data Science student from Norway with a strong interest in artificial intelligence, machine learning, data analysis, and real-world problem solving.
 
-I enjoy building projects that combine analytical thinking, system design, automation, and practical applications of data-driven technologies. My current focus is building a strong foundation in machine learning, statistical analysis, and software engineering while continuously developing hands-on projects.
+My current focus is building a strong foundation in machine learning, statistical analysis, and understanding how large language models and intelligent systems work while continuously developing hands-on projects.
 
 I am particularly fascinated by intelligent systems, scientific discovery, emerging technologies, and the way data can be used to improve decision making and human interaction with technology.
 
