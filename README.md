@@ -81,4 +81,4 @@ I enjoy solving problems by simplifying systems, optimizing workflows, and findi
 
 ## Connect
 
-- LinkedIn: www.linkedin.com/in/tormod-daniel-kvarekval-hanssen-5a224a161
+- LinkedIn: www.linkedin.com/in/tor-dan-kva-han
